@@ -21,4 +21,5 @@ Reviews: Details of the review of the order with:
     *review_id,order+id,review_score,review_comment_title,review_comment_message,review_creation_date,review_answer_timestamp
 Products: Details of the products with:
     *product_id,product_category_name,product_name_length,product_description_length,product_photos_qty,product_weight_g,product_length_cm,product_height_cm,product_width_cm
-    
+Category Translation: Details of product category translation with:
+    *product_category_name,product_category_name_english
